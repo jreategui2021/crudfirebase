@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">CRUD Firebase</string>
+    <string name="action_menu_user">Opciones</string>
+    <string name="title_activity_login">Autentificación</string>
+    <string name="guardar">Guardar</string>
+    <string name="excluir">Excluir</string>
+    <string name="salir">Salir</string>
+    <string name="login">Login</string>
+    <string name="usuarios">Usuarios</string>
+    <string name="nuevo_user">New User</string>
+
+
+    <!-- login -->
+    <string name="Login_txtUsuario">Usuario:</string>
+    <string name="Login_txtClave">Clave:</string>
+    <string name="Login_btnEntrar">Ingresar</string>
+
+    <!-- validacion -->
+    <string name="Login_validaUsuario">Usuario Obligatorio</string>
+    <string name="Login_validaClave">Clave Obligatorio</string>
+    <string name="Login_validaNombre">Nombre Obligatorio</string>
+
+    <!-- Mensajes -->
+    <string name="msg_login_incorrecto">Usuario o Clave invalida</string>
+    <string name="title_activity_usuario">Registro de Usuarios</string>
+    <string name="msg_user_guardado">Registro Guardado..!</string>
+    <string name="msg_user_modificado">Registro Modificado..!</string>
+    <string name="msg_user_eliminado">Registro Eliminado..!</string>
+    <string name="msg_user_error">Error al guardar!</string>
+
+
+    <!-- Usuarios -->
+    <string name="Usuario_txtNombre">Nombre:</string>
+    <string name="Usuario_txtCorreo">Correo:</string>
+    <string name="Usuario_txtCkave">Clave:</string>
+    <string name="Login_btnRegistrar">Registrar</string>
+    <string name="title_activity_list_usuarios">Lista de Usuarios</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Lista_usuarios">Lista de Usuarios</string>
+    <string name="title_activity_list_usuario">ListUsuarioActivity</string>
+</resources>

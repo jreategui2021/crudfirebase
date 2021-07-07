@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969996423923",
+    "project_id": "crudnube",
+    "storage_bucket": "crudnube.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969996423923:android:b36a8deee3dd814e781d86",
+        "android_client_info": {
+          "package_name": "com.example.crudnube_2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969996423923-a6niru0n9d049sba3cktgk4sve0hu6k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCezNEKeawf_qVtxEd0wki85viiY5JFJMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969996423923-a6niru0n9d049sba3cktgk4sve0hu6k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
